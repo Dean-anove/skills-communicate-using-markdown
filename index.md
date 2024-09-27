@@ -3,3 +3,5 @@
 
 
 Added heading 1 & 2 to the file
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
